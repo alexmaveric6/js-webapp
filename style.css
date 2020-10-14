@@ -1,0 +1,61 @@
+
+.container{
+    background-image: url(foto9.jpeg);
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.header{
+    width: 100%;
+}
+.title {
+    font-family: fantasys;
+    font-size: 40px;
+    color: rgba(0, 0, 0, .6);
+}
+h2 {
+    color: rgba(0, 0, 0, .6);
+}
+.lead {
+    color: rgba(0, 0, 0, .6);
+}
+.header ul{
+    text-align: center;
+}
+input, button{
+    background: none;
+    border-radius: 0%;
+}
+.header ul li{
+    list-style: none;
+    display: inline-block ;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.3);
+    border: none;
+    outline: none;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 22px;
+    font-weight: 300px;
+    border-bottom: 3px solid black;
+}
+
+
+.header ul li a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, .5);
+    font-size: 25px;
+    font-family: 'raleway', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding: 10px;
+
+}
+audio {
+    background-color: rgba(0, 0, 0, 0);
+}
